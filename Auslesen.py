@@ -17,3 +17,4 @@ vorname = data_array[:, 2]
 print(running_index)
 print(kundennummer)
 print(vorname)
+#hehehehehe
